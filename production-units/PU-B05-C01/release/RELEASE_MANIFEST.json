@@ -1,14 +1,16 @@
 ﻿{
     "production_unit":  "PU-B05-C01",
     "title":  "MLOps Foundations",
-    "candidate_version":  "0.1.0",
+    "candidate_version":  "0.1.1",
     "build_date":  "2026-09-15",
     "publication_status":  "RELEASED",
     "governance_authorization":  true,
-    "file_count_excluding_control_files":  36,
+    "file_count_excluding_control_files":  40,
     "files":  [
                   "assessment/PU-B05-C01_Exercises_v0.1.docx",
+                  "assessment/PU-B05-C01_Exercises_v0.1.pdf",
                   "assessment/PU-B05-C01_Solutions_and_Marking_Guide_v0.1.docx",
+                  "assessment/PU-B05-C01_Solutions_and_Marking_Guide_v0.1.pdf",
                   "evidence/agricultural_risk_model.joblib",
                   "evidence/config.json",
                   "evidence/data_acceptance.csv",
@@ -24,8 +26,10 @@
                   "evidence/synthetic_agricultural_risk.csv",
                   "evidence/test_metrics.csv",
                   "executive/PU-B05-C01_Executive_Brief_v0.1.docx",
+                  "executive/PU-B05-C01_Executive_Brief_v0.1.pdf",
                   "github/README.md",
                   "lesson/PU-B05-C01_MLOps_Foundations_Controlled_Lesson_v0.1.docx",
+                  "lesson/PU-B05-C01_MLOps_Foundations_Controlled_Lesson_v0.1.pdf",
                   "linkedin/PU-B05-C01_LinkedIn_Posts_v0.1.md",
                   "notebook/PU-B05-C01_Notebook_Evidence.zip",
                   "notebook/V5_N01_mlops_foundations.ipynb",
@@ -46,5 +50,11 @@
               ],
     "video_url":  "https://youtu.be/H4iQtad7-SQ",
     "instructional_publication_authorization":  true,
-    "operational_model_authorization":  false
+    "operational_model_authorization":  false,
+    "pdf_publication_assets":  [
+                                   "assessment/PU-B05-C01_Exercises_v0.1.pdf",
+                                   "assessment/PU-B05-C01_Solutions_and_Marking_Guide_v0.1.pdf",
+                                   "executive/PU-B05-C01_Executive_Brief_v0.1.pdf",
+                                   "lesson/PU-B05-C01_MLOps_Foundations_Controlled_Lesson_v0.1.pdf"
+                               ]
 }

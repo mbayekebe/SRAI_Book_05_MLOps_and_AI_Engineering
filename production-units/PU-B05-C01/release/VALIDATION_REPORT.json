@@ -44,9 +44,20 @@
                   "thumbnail_present":  true,
                   "publication_record_present":  true
               },
-    "release_version":  "0.1.0",
+    "release_version":  "0.1.1",
     "instructional_publication_authorization":  true,
     "authorized_by":  "Mbaye Kebe",
     "authorization_date":  "2026-09-15",
-    "operational_model_authorization":  false
+    "operational_model_authorization":  false,
+    "pdf_publication_assets":  {
+                                   "status":  "PASS",
+                                   "asset_count":  4,
+                                   "controlled_lesson_pages":  42,
+                                   "exercises_pages":  10,
+                                   "solutions_pages":  10,
+                                   "executive_brief_pages":  3,
+                                   "visual_layout_verified":  true,
+                                   "page_numbering_verified":  true,
+                                   "docx_sources_retained":  true
+                               }
 }

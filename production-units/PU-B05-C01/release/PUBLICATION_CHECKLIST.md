@@ -30,3 +30,14 @@
 **Instructional publication decision: APPROVED.**
 
 The synthetic model remains unauthorized for operational or consequential use.
+
+## PDF publication assets — v0.1.1
+
+- [x] Controlled lesson PDF created and visually verified
+- [x] Exercises PDF created and visually verified
+- [x] Solutions and marking guide PDF created and visually verified
+- [x] Executive brief PDF created and visually verified
+- [x] Page numbering verified
+- [x] Controlled DOCX source files retained
+- [x] PDF assets included in the SHA-256 inventory
+- [x] Website publication metadata advanced to v0.1.1
