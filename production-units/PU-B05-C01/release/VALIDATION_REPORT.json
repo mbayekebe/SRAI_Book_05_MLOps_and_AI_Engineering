@@ -1,0 +1,47 @@
+﻿{
+    "production_unit":  "PU-B05-C01",
+    "validated_at":  "2026-09-15",
+    "lesson":  {
+                   "page_count":  42,
+                   "native_equations":  8,
+                   "package_integrity":  true,
+                   "font":  "Garamond 12",
+                   "footer":  "single Page field"
+               },
+    "notebook":  {
+                     "total_cells":  45,
+                     "code_cells":  22,
+                     "execution_errors":  [
+
+                                          ],
+                     "vscode_confirmed":  true,
+                     "colab_confirmed":  true
+                 },
+    "presentation":  {
+                         "slides":  29,
+                         "speaker_notes_complete":  "29/29",
+                         "package_integrity":  true,
+                         "layout_findings":  0
+                     },
+    "assessment":  {
+                       "total_marks":  100,
+                       "exercises_present":  true,
+                       "solutions_present":  true
+                   },
+    "sector_coverage":  [
+                            "Agriculture",
+                            "Education",
+                            "Health",
+                            "Habitat"
+                        ],
+    "technical_validation":  "PASS",
+    "governance_authorization":  false,
+    "publication_status":  "BLOCKED",
+    "video":  {
+                  "url":  "https://youtu.be/H4iQtad7-SQ",
+                  "duration":  "00:14:07",
+                  "visibility":  "Unlisted",
+                  "thumbnail_present":  true,
+                  "publication_record_present":  true
+              }
+}

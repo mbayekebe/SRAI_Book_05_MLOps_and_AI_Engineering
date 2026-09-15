@@ -1,0 +1,7 @@
+,pass
+schema_exact,True
+row_count_min_1000,True
+target_binary,True
+rainfall_range,True
+soil_index_range,True
+missing_rate_below_0_02,True
