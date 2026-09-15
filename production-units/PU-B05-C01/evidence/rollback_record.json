@@ -1,0 +1,10 @@
+{
+  "trigger": "post-deployment acceptance failure",
+  "from_version": "0.1.0",
+  "to_version": "0.0.1",
+  "data_contract_restored": true,
+  "service_contract_restored": true,
+  "owner": "platform-operations",
+  "incident_record_required": true,
+  "status": "SIMULATED_PASS"
+}

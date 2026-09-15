@@ -1,0 +1,24 @@
+{
+  "production_unit": "PU-B05-C01",
+  "candidate": "0.1.0",
+  "data_sha256": "7d1ba7fab8ce7a87c3f76f427fce71ef1ac5dba9b7f28a28a0044959d5e567b5",
+  "model_sha256": "5d2542c298475a9753bbdb01c98a2e52e6cc69fb94796371057dff73fde7f0f7",
+  "test_metrics": {
+    "accuracy": 0.7666666666666667,
+    "precision": 0.6078431372549019,
+    "recall": 0.3263157894736842,
+    "f1": 0.4246575342465753,
+    "roc_auc": 0.7567825223435949
+  },
+  "release_gates": {
+    "data_accepted": true,
+    "roc_auc": true,
+    "recall": false,
+    "contract_test": true,
+    "artifact_saved": true,
+    "monitoring_plan": false,
+    "rollback_tested": true,
+    "governance_approval": false
+  },
+  "authorized_release": false
+}
