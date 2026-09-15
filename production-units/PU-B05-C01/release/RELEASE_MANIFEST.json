@@ -1,10 +1,10 @@
 ﻿{
     "production_unit":  "PU-B05-C01",
     "title":  "MLOps Foundations",
-    "candidate_version":  "0.1",
+    "candidate_version":  "0.1.0",
     "build_date":  "2026-09-15",
-    "publication_status":  "BLOCKED",
-    "governance_authorization":  false,
+    "publication_status":  "RELEASED",
+    "governance_authorization":  true,
     "file_count_excluding_control_files":  36,
     "files":  [
                   "assessment/PU-B05-C01_Exercises_v0.1.docx",
@@ -44,5 +44,7 @@
                   "website/PU-B05-C01_Website_Content_v0.1.md",
                   "website/PU-B05-C01_Website_Metadata_v0.1.json"
               ],
-    "video_url":  "https://youtu.be/H4iQtad7-SQ"
+    "video_url":  "https://youtu.be/H4iQtad7-SQ",
+    "instructional_publication_authorization":  true,
+    "operational_model_authorization":  false
 }
