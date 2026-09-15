@@ -1,7 +1,7 @@
 # Validation Report — PU-B05-C01
 
 **Validation date:** 2026-09-15  
-**Release version:** 0.1.0  
+**Release version:** 0.1.1  
 **Technical result:** PASS  
 **Instructional publication:** APPROVED  
 **Operational model release:** NOT AUTHORIZED
@@ -21,4 +21,18 @@
 
 ## Conclusion
 
-PU-B05-C01 is authorized for educational publication as version 0.1.0. The synthetic model remains prohibited from operational or consequential use.
+PU-B05-C01 is authorized for educational publication as version 0.1.1. The synthetic model remains prohibited from operational or consequential use.
+
+## PDF publication validation
+
+| Control | Result |
+|---|---|
+| PDF assets present | PASS — 4 files |
+| Controlled lesson | PASS — 42 pages |
+| Exercises | PASS — 10 pages |
+| Solutions and marking guide | PASS — 10 pages |
+| Executive brief | PASS — 3 pages |
+| Page numbering | PASS |
+| Visual layout | PASS |
+| DOCX sources retained | PASS |
+| Browser-readable publication format | PASS |

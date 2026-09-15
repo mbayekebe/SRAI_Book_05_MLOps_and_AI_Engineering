@@ -4,7 +4,7 @@
 |---|---|
 | Production unit | PU-B05-C01 |
 | Title | MLOps Foundations |
-| Release version | 0.1.0 |
+| Release version | 0.1.1 |
 | Release date | 2026-09-15 |
 | Technical validation | PASS |
 | Instructional publication authorization | APPROVED |
@@ -28,3 +28,14 @@ This authorization does not approve the synthetic agricultural-risk model for op
 | Technical validation | PASS | 2026-09-15 |
 | Accessibility validation | PASS | 2026-09-15 |
 | Publication authority | APPROVED | 2026-09-15 |
+
+## PDF publication assets
+
+Version 0.1.1 adds browser-readable PDF publication copies while retaining the controlled DOCX source files.
+
+- Controlled lesson: 42 pages
+- Exercises: 10 pages
+- Solutions and marking guide: 10 pages
+- Executive brief: 3 pages
+- PDF visual and page-numbering validation: PASS
+- DOCX controlled sources retained: Yes

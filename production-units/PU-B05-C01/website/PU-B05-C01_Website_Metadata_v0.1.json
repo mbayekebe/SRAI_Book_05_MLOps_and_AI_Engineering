@@ -1,10 +1,10 @@
-﻿{
+{
     "production_unit":  "PU-B05-C01",
     "book":  5,
     "lesson":  1,
     "title":  "MLOps Foundations",
     "subtitle":  "From experimental model to governed operating system",
-    "version":  "0.1",
+    "version":  "0.1.1",
     "status":  "released",
     "audiences":  [
                       "learner",
@@ -31,6 +31,12 @@
     "video_url":  "https://youtu.be/H4iQtad7-SQ",
     "video_duration":  "00:14:07",
     "video_visibility":  "Unlisted",
-    "release_version":  "0.1.0",
-    "release_date":  "2026-09-15"
+    "release_version":  "0.1.1",
+    "release_date":  "2026-09-15",
+    "pdf_resources":  {
+                          "lesson":  "lesson/PU-B05-C01_MLOps_Foundations_Controlled_Lesson_v0.1.pdf",
+                          "exercises":  "assessment/PU-B05-C01_Exercises_v0.1.pdf",
+                          "solutions":  "assessment/PU-B05-C01_Solutions_and_Marking_Guide_v0.1.pdf",
+                          "executive_brief":  "executive/PU-B05-C01_Executive_Brief_v0.1.pdf"
+                      }
 }
