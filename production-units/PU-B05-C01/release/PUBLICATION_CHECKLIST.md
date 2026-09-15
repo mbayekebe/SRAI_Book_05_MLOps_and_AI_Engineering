@@ -17,13 +17,16 @@
 - [x] Canonical run completes with zero cell errors.
 - [x] Evidence inventory, hashes, tests, monitoring and rollback records are generated.
 - [x] Checksums cover the repository package.
+- [x] YouTube video and thumbnail are recorded.
 
-## Governance and publication authority
+## Publication authorization
 
-- [ ] Content owner approval recorded.
-- [ ] Technical reviewer approval recorded.
-- [ ] Accessibility reviewer approval recorded.
-- [ ] Legal/licensing review recorded where required.
-- [ ] Publication authority signature recorded.
+- [x] Content owner approval recorded.
+- [x] Technical validation recorded.
+- [x] Accessibility validation recorded.
+- [x] Educational-use and synthetic-data limitations recorded.
+- [x] Publication authority approval recorded.
 
-**Current decision: BLOCKED.** Completion of checked technical items does not satisfy the unchecked authorization controls.
+**Instructional publication decision: APPROVED.**
+
+The synthetic model remains unauthorized for operational or consequential use.

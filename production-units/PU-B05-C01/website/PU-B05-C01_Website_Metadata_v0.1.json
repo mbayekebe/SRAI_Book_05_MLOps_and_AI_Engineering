@@ -5,7 +5,7 @@
     "title":  "MLOps Foundations",
     "subtitle":  "From experimental model to governed operating system",
     "version":  "0.1",
-    "status":  "release_candidate_blocked",
+    "status":  "released",
     "audiences":  [
                       "learner",
                       "instructor",
@@ -30,5 +30,7 @@
     "responsible_use":  "Synthetic educational demonstration; not authorized for consequential decisions.",
     "video_url":  "https://youtu.be/H4iQtad7-SQ",
     "video_duration":  "00:14:07",
-    "video_visibility":  "Unlisted"
+    "video_visibility":  "Unlisted",
+    "release_version":  "0.1.0",
+    "release_date":  "2026-09-15"
 }

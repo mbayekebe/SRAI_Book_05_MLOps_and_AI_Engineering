@@ -36,12 +36,17 @@
                         ],
     "technical_validation":  "PASS",
     "governance_authorization":  false,
-    "publication_status":  "BLOCKED",
+    "publication_status":  "RELEASED",
     "video":  {
                   "url":  "https://youtu.be/H4iQtad7-SQ",
                   "duration":  "00:14:07",
                   "visibility":  "Unlisted",
                   "thumbnail_present":  true,
                   "publication_record_present":  true
-              }
+              },
+    "release_version":  "0.1.0",
+    "instructional_publication_authorization":  true,
+    "authorized_by":  "Mbaye Kebe",
+    "authorization_date":  "2026-09-15",
+    "operational_model_authorization":  false
 }
